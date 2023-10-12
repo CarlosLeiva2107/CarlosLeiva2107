@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a dedicated and disciplined software engineering student with a strong passion for technology. My commitment to excellence is evident not only in my academic pursuits but also in my daily life, where I maintain discipline and organization as a priority.<br><br>My main interests lie in software development. I find great satisfaction in coding and have a particular enthusiasm for web development and game development.<br><br>"During the time I've been programming, I've developed interesting projects such as video games, web and mobile applications, among many others. I'm always open to learning and improving.<br><br>A friendly hello from Costa Rica! 🇨🇷
+I am a dedicated and disciplined software engineering student with a strong passion for technology. My commitment to excellence is evident not only in my academic pursuits but also in my daily life, where I maintain discipline and organization as a priority.<br><br>My main interests lie in software development. I find great satisfaction in coding and have a particular enthusiasm for web development and game development.<br><br>During the time I've been programming, I've developed interesting projects such as video games, web and mobile applications, among many others. I'm always open to learning and improving.<br><br>A friendly hello from Costa Rica! 🇨🇷
 
 
 ## 🌐 Socials:
